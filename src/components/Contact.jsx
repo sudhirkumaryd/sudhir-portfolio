@@ -44,9 +44,9 @@ export default function Contact() {
 
                         <div className="flex gap-4 mt-8 text-2xl">
                             <a href="https://github.com/sudhirkumaryd" target="_blank" rel="noreferrer" className="hover:text-java transition"><FaGithub /></a>
-                            <a href="https://linkedin.com/in/sudhir-yadav" target="_blank" rel="noreferrer" className="hover:text-java transition"><FaLinkedin /></a>
-                            <a href="https://leetcode.com" target="_blank" rel="noreferrer" className="hover:text-java transition"><SiLeetcode /></a>
-                            <a href="https://geeksforgeeks.org" target="_blank" rel="noreferrer" className="hover:text-java transition"><SiGeeksforgeeks /></a>
+                            <a href="https://www.linkedin.com/in/sudhir-yadav-706516222/" target="_blank" rel="noreferrer" className="hover:text-java transition"><FaLinkedin /></a>
+                            <a href="https://leetcode.com/u/sudhir_1432/" target="_blank" rel="noreferrer" className="hover:text-java transition"><SiLeetcode /></a>
+                            <a href="https://www.geeksforgeeks.org/profile/sk1439w88l?tab=activity" target="_blank" rel="noreferrer" className="hover:text-java transition"><SiGeeksforgeeks /></a>
                         </div>
                     </motion.div>
 
